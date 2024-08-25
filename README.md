@@ -17,7 +17,7 @@ The service supports retry logic, fallback between providers, idempotency, rate 
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone "https://github.com/Yasshhh12/Mailflow.git"
    cd email-service
 
 2.Install Express,Mongoose
